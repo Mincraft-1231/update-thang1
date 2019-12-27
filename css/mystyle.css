@@ -1,0 +1,23 @@
+.sale{
+	position: relative;
+	z-index: 1000px;
+	text-transform: sale;
+	-moz-transform: scale(1) rotate(40deg);
+	-webkit-transform: scale(1) rotate(40deg);
+	-o-transform: scale(1) rotate(40deg);
+	-ms-transform: scale(1) rotate(40deg);
+	transform: scale(1) rotate(40deg);
+	
+	width: 100px;
+   	background: #ff9900;
+   	margin: 0;
+   	padding: 5px;
+    	position: absolute;
+   	top: 15px;
+    	right:-20px;
+    	line-height: 10px;
+    	text-align: center;
+    	border: 1px solid #999;
+    	z-index: 9999;
+	border: 1px;	
+}
